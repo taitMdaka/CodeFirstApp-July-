@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BusinessUnits.Data_Access.Entities
+{
+    public partial class Region
+    {
+        public Region()
+        {
+            this.PhysicalAddresses = new List<PhysicalAddress>();
+        }
+        [Key]
+        public int RegionId { get; set; }
+        public string RegionName { get; set; }
+        public virtual ICollection<PhysicalAddress> PhysicalAddresses { get; set; }
+    }
+}

@@ -1,0 +1,17 @@
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\BusinessApp.exe.config
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\BusinessApp.exe
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\BusinessApp.pdb
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\BusinessUnits.exe
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\EntityFramework.dll
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\MySql.Data.dll
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\BusinessUnits.pdb
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\EntityFramework.xml
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\obj\Debug\BusinessApp.csprojResolveAssemblyReference.cache
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\obj\Debug\BusinessApp.exe
+C:\Users\TMdaka\Documents\Visual Studio 2015\Projects\BusinessUnits\BusinessApp\obj\Debug\BusinessApp.pdb
+C:\Users\TMdaka\Documents\New folder\BusinessUnit\BusinessApp\bin\Debug\BusinessApp.exe.config
+C:\Users\TMdaka\Documents\New folder\BusinessUnit\BusinessApp\obj\Debug\BusinessApp.exe
+C:\Users\TMdaka\Documents\New folder\BusinessUnit\BusinessApp\obj\Debug\BusinessApp.pdb
